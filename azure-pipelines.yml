@@ -20,7 +20,7 @@ steps:
     location: 'UK South'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/pdb99/ARMPipeline-repo/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName ARMPipeline'
+    overrideParameters: '-projectName pdb81'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
